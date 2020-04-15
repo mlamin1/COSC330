@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Project_1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="reading_exercise">Reading Exercise</string>
+    <string name="select_one_of_the_following">Select one of the following:</string>
+    <string name="ReadingText">When you are well, see your doctor for a ____________.
+    Your doctor will look for problems you do not see or feel. Finding a health problem early may save your life.
+    \n\n\nWhen you are sick, go to your ____________________. Your primary care center is the place you go
+    for all your basic health care needs. Call your primary care center to make an ________________.
+    \n\n\nWhen you have an ______________, go to the hospital emergency room or call 911. An emergency is
+        when you have a serious medical problem that needs to be addressed right away.</string>
+
+    <string name="PlaceToGo">Contact places to go:</string>
+    <string name="EmergencyContact">Emergency Centers\n(24 hours):</string>
+    <string name="PrimaryContact">Primary Care Center\n(Hours vary):</string>
+    <string name="WalkContact">Walk-In Clinic\n(Hours vary):</string>
+    <string name="EmergencyNumber">x\t\tPeninsula Regional\n\t\tMedical Center\n
+        \t\t(410)546-6400\n\t\t<i>www.peninsula.org</i></string>
+    <string name="PrimaryNumber">x\t\tEastern Shore\n\t\tMedical Center\n
+        \t\t(410)546-1331\n\nx\t\tThree Lower\n\t\tCounties Community\n\t\tServices\n\t\t(410)749-2525\n\t\t<i>www.tlccs.org</i></string>
+    <string name="WalkNumber">x\t\tSalisbury Immediate\n\t\tCare and Injury\n\t\tCenter\n
+        \t\t(410)543-2020\n\t\t<i>www.sbyimmediatecare.com</i>\n\nx\t\tYour Doc\'s In\n\t\t(443)944-0196\n
+        \t\t<i>www.yourdocsin.com</i></string>
+    <string name="congratulation_you_answered_all_questions_correctly">Congratulations you answered all questions correctly!</string>
+    <string name="sorry_try_again">Sorry try again.</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="Health1"><u><b>Health Center:</b></u> Hello, this is the health center department. How may I help you?</string>
+    <string name="Health2"><u><b>Health Center:</b></u> How do you spell your last name?</string>
+    <string name="Health3"><u><b>Health Center:</b></u> Thank you, what is the problem?</string>
+    <string name="Health4"><u><b>Health Center:</b></u> Do you have a fever?</string>
+    <string name="Health5"><u><b>Health Center:</b></u> Okay, come in tomorrow at 10 am.</string>
+    <string name="Patient1"><u><b>Patient:</b></u> Hello, this is <u>Fatima Tuma</u>. I want to make an <b>appointment</b>.</string>
+    <string name="Patient2"><u><b>Patient:</b></u> <u>T U M A</u></string>
+    <string name="Patient3"><u><b>Patient:</b></u> I have a <b>headache</b> and <b>sore throat</b>.</string>
+    <string name="Patient4"><u><b>Patient:</b></u> No, I don\'t</string>
+    <string name="Patient5"><u><b>Patient:</b></u> Thank you.</string>
+
+    <string name="Health6"><u><b>Health Center:</b></u> Hello, this is the health center department. How may I help you?</string>
+    <string name="Health7"><u><b>Health Center:</b></u> How do you spell your last name?</string>
+    <string name="Health8"><u><b>Health Center:</b></u> Thank you what is the problem?</string>
+    <string name="Health9"><u><b>Health Center:</b></u> Do you have a fever?</string>
+    <string name="Health10"><u><b>Health Center:</b></u> Okay, come in ___________ at 10 am.</string>
+    <string name="Patient6"><u><b>Patient:</b></u> Hello, this is ________________. I want to make an <b>appointment</b>.</string>
+    <string name="Patient7"><u><b>Patient:</b></u> ________________.</string>
+    <string name="Patient8"><u><b>Patient:</b></u> I have a ____________ and ____________.</string>
+    <string name="Patient9"><u><b>Patient:</b></u> ______________.</string>
+    <string name="Patient10"><u><b>Patient:</b></u> Thank you.</string>
+    <string name="speaking_exercise">Speaking Exercise:</string>
+    <string name="switch_next">Switch Next</string>
+    <string name="parts_of_head">Parts of Head</string>
+
+    <string name="solve_square">Solve square</string>
+    <string name="solve_word">Solve word</string>
+    <string name="solve_puzzle">Solve puzzle</string>
+    <string name="restart">Restart</string>
+    <string name="across">%1$d. Across ~ %2$s</string>
+    <string name="down">%1$d. Down ~ %2$s</string>
+    <string name="title_by_author">%1$s by %2$s</string>
+    <string name="youve_solved_the_puzzle">You\'ve solved the puzzle!</string>
+
+    <string name="pic">Picture</string>
+    <string name="Word">Word</string>
+    <string name="sound">Sound</string>
+    <string name="def">Definition</string>
+    <string name="deff">DEF</string>
+    <string name="Soun">sound</string>
+    <string name="defbtn">defdtn</string>
+
+    <!-- WORD FOR GLOSSARY -->
+    <string name="appoint">Appointment</string>
+    <string name="allergy">Allergy</string>
+    <string name="check">Checkup</string>
+    <string name="pay">Co-pay</string>
+    <string name="emergency">Emergency</string>
+    <string name="fever">Fever</string>
+    <string name="fiber">Fiber</string>
+    <string name="generic">Generic Medicine</string>
+    <string name="head">Headache</string>
+    <string name="history">Health History</string>
+    <string name="insurance">Health Insurance</string>
+    <string name="label">Label</string>
+    <string name="interpreter">Medicine Interpreter</string>
+    <string name="medicine">Medicine</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="obesity">Obesity</string>
+    <string name="counter">Over-the-counter(OTC)</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="pharmacist">Pharmacist</string>
+    <string name="prescribe">Prescription(Rx)</string>
+    <string name="center">Primary Care Center</string>
+    <string name="recipe">Recipe</string>
+    <string name="effect">Side Effect</string>
+    <string name="sodium">Sodium</string>
+    <string name="throat">Sore Throat</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="warning">Warning Label</string>
+    <string name="vitamins">Vitamins</string>
+
+
+    <!--  DEFINITION FOR THE GLOSSARY -->
+    <string name="appointment">A time to meet or agree to see someone </string>
+    <string name="Allergy">Reaction to certain foods or other things, may cause rash, hives, sneezing, or other  problems </string>
+    <string name="Checkup">A visit to the doctor when you are not sick, also called a well visit </string>
+    <string name="Copay">When you pay a set fee every time you go to the doctor and your health insurance pays the rest</string>
+    <string name="Emergency">When there is a serious problem and you need help right away</string>
+    <string name="Fever">When your body temperature is too high</string>
+    <string name="Fiber">Foods that help you feel full and helps your stool come out</string>
+    <string name="Generic">Not a name brand medicine, usually less expensive than the name brand </string>
+    <string name="Head">Pain or ache in your head</string>
+    <string name="History">The health problems you had in the past</string>
+    <string name="Insurance">A program where you pay each month and then the program pays for your health care</string>
+    <string name="Label">On the bottle or box to describe the medicine and how to take it</string>
+    <string name="Interpreter">A person who is trained to translate information from doctor to patient and from patient to doctor</string>
+    <string name="Medicine">Used when you are sick or have aches and pain to help make you feel well</string>
+    <string name="Nutrition">How the body uses food to stay healthy</string>
+    <string name="Obesity">Being very overweight, a weight that is dangerous for your health</string>
+    <string name="Over">Medicine anyone can buy at a store, you do not need a prescription</string>
+    <string name="Pharmacy">Where you go to buy medicine</string>
+    <string name="Pharmacist">A person who works in the pharmacy, a person who fills prescriptions</string>
+    <string name="Prescriptions">You need one of these from a doctor to buy some kinds of medicines</string>
+    <string name="Primary">The place you go for all your basic health care needs, could be a health center, health clinic, or doctor�s office</string>
+    <string name="Recipe">List of what goes into a meal and how to prepare it </string>
+    <string name="Side">An unwanted result or symptom, you get from taking some medicines </string>
+    <string name="Sodium">Another word for salt </string>
+    <string name="Sore">When your throat hurts, it is hard to swallow</string>
+    <string name="Symptoms">Something that happens in the body that shows you have an injury or illness </string>
+    <string name="Warning">Describes dangers and what NOT to do when taking medicines </string>
+    <string name="Vitamins">A kind of nutrient in foods that help fight sickness and keep the body strong and healthy</string>
+
+
+</resources>

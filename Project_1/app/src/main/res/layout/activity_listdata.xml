@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ic_launcher_background"
+    tools:context=".Listdata">
+
+
+    <TextView
+        android:id="@+id/listdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:text="@string/appoint"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_below="@id/listdata"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:contentDescription="@string/appoint"
+        app:srcCompat="@drawable/appointment" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/sound"
+        android:onClick="playsound"
+        app:srcCompat="@drawable/sound_1" />
+
+    <TextView
+        android:id="@+id/listdata2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_below="@id/imageButton1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/appointment"
+        android:textSize="20dp" />
+</RelativeLayout>
