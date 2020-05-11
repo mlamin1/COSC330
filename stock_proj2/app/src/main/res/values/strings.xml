@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">stock_proj</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="product">Product</string>
+    <string name="sNo">sNo</string>
+    <string name="symbol">Symbol</string>
+    <string name="name">Name</string>
+    <string name="last">Last</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="openclose">Open/Close</string>
+    <string name="highlow">High/Low</string>
+    <string name="vol">Volume</string>
+</resources>
