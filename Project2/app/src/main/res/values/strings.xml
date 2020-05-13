@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string-array name="strategy">
+        <item>1)</item>
+        <item>2)</item>
+        <item>3)</item>
+        <item>4)</item>
+    </string-array>
+    <string name="symbol">Symbol</string>
+    <string name="name">Name</string>
+    <string name="last">Last</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="openclose">Open/Close</string>
+    <string name="highlow">High/Low</string>
+    <string name="vol">Volume</string>
+    <string name="go_to_stocks">Go To Stocks</string>
+    <string name="strategy1"><b>Strategy 1:</b>\n
+        o buys if the change (last – close) is greater than 5% \n
+        o sells if stock price is 5% lower than previous close \n
+        o holds otherwise </string>
+    <string name="strategy2"><b>Strategy 2:</b> \n
+        o sells if the change (last – close) is greater than 5% \n
+        o buys if stock price is 5% lower than previous close \n
+        o holds otherwise  </string>
+
+    <string name="strategy3"><b>Strategy 3:</b> \n
+        o buys if ticker symbol is 4 characters \n
+        o sells if the time is between 1:00pm and 3:22pm \n
+        o holds if the above are true  </string>
+</resources>
