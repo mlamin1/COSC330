@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DowntownRedlands</string>
+    <string name="love">I Love Redlands</string>
+    <string name="me">TAKE ME THERE!</string>
+    <string name="title_activity_redlands">DtownRedlands</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

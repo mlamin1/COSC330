@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tap_Button_Counter</string>
+    <string name="action_settings">Settings</string>
+
+
+    //Used for the text shown on phone screen
+    <string name="tap_btn">TAP</string>
+    <string name="zero">0</string>
+    <string name="textview">TextView</string>
+    <string name="TAP">Button</string>
+</resources>

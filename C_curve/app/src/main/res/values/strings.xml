@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">C_curve</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- BUTTON LABELS -->
+    <string name="draw_btn">Draw</string>
+
+    <string name="up_btn">+</string>
+
+    <string name="down_btn">-</string>
+
+    <string name="start_level">1</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <android.support.v7.widget.RecyclerView
+  		android:id="@+id/puzzleList"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+  		android:layout_width="fill_parent"
+  		android:layout_height="fill_parent"
+  	/>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/button_floating_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#ff669900"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <color name="textColorPrimaryNight">#d00</color>
+    <color name="primary">#34495e</color>
+    <color name="primary_dark">#2c3e50</color>
+    <color name="accent">#2980b9</color>
+    <color name="textColorPrimary">#262626</color>
+    <color name="textColorSecondary">#BEBEBE</color>
+    <color name="accentText">#fff</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_light">#fafafa</color>
+    <color name="background_dark">#bbb</color>
+    <color name="header_color">#ccc</color>
+    <color name="header_text">#262626</color>
+    <color name="boxColor">#fff</color>
+    <color name="blankColor">#000</color>
+    <color name="errorColor">#f00</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Glossary</string>
+    <string name="pic">Picture</string>
+    <string name="Word">Word</string>
+    <string name="sound">Sound</string>
+    <string name="def">Definition</string>
+    <string name="deff">DEF</string>
+    <string name="Soun">sound</string>
+    <string name="defbtn">defdtn</string>
+
+<!-- WORD FOR GLOSSARY -->
+    <string name="appoint">Appointment</string>
+    <string name="allergy">Allergy</string>
+    <string name="check">Checkup</string>
+    <string name="pay">Co-pay</string>
+    <string name="emergency">Emergency</string>
+    <string name="fever">Fever</string>
+    <string name="fiber">Fiber</string>
+    <string name="generic">Generic Medicine</string>
+    <string name="head">Headache</string>
+    <string name="history">Health History</string>
+    <string name="insurance">Health Insurance</string>
+    <string name="label">Label</string>
+    <string name="interpreter">Medicine Interpreter</string>
+    <string name="medicine">Medicine</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="obesity">Obesity</string>
+    <string name="counter">Over-the-counter(OTC)</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="pharmacist">Pharmacist</string>
+    <string name="prescribe">Prescription(Rx)</string>
+    <string name="center">Primary Care Center</string>
+    <string name="recipe">Recipe</string>
+    <string name="effect">Side Effect</string>
+    <string name="sodium">Sodium</string>
+    <string name="throat">Sore Throat</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="warning">Warning Label</string>
+    <string name="vitamins">Vitamins</string>
+</resources>

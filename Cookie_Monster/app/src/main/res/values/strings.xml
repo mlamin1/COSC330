@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cookie_Monster</string>
+
+    <!-- USED FOR HUNGER DESCRIPTION -->
+    <string name="hungry">I\'m so hungry</string>
+    <string name="full">I\'m so full</string>
+
+
+    <!-- USED FOR THE BUTTONS -->
+    <string name="eat_btn">EAT COOKIE</string>
+    <string name="done_btn">DONE</string>
+
+    <!-- USED FOR THE IMAGES -->
+    <string name="blue_bkgrd">Background</string>
+    <string name="hungry_img">Hungry</string>
+    <string name="full_img">Full</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //DEFAULT SCREEN MARGINS, PER THE ANDROID DESIGN GUIDELINES
+    <dimen name="activity_horizontal">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="output_margin_buffer">30dp</dimen>
+</resources>
